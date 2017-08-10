@@ -1,30 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Gist
-
-    @ThomasFarrenkopf
-
-12
-1
-
-    99
-
-in-mind-cloud/pellet forked from stardog-union/pellet
-Code
-Pull requests 0
-Projects 0
-Wiki
-pellet/core/src/main/java/com/clarkparsia/pellet/rules/ContinuousRulesStrategy.java
-8ee8a32 on 4 Nov 2015
-Tobias Hammerschmidt prevent ConcurrentModificationException in case new partial bindings are
-@ansell
-@evren
-410 lines (344 sloc) 12.3 KB
 // Copyright (c) 2006 - 2008, Clark & Parsia, LLC. <http://www.clarkparsia.com>
 // This source code is available under the terms of the Affero General Public License v3.
 //
